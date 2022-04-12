@@ -1,0 +1,20 @@
+{
+  "name": "ivanovpaket",
+  "version": "1.0.0",
+  "main": "NET-25-19_zadatak1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IvanFalzlicNET2519",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanFazlic/IST_Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvanFazlic/IST_Node/issues"
+  },
+  "homepage": "https://github.com/IvanFazlic/IST_Node#readme",
+  "description": ""
+}
